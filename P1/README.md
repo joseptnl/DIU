@@ -8,7 +8,12 @@ En la siguiente tabla se realiza un análisis entre el negocio objeto de estudio
 
 A continuación se comparan los productos ofrecidos por cada uno así como algunas funcionalidades de la web mediante una tabla que contiene afirmaciones y negaciones así como algunas aclaraciones en los casos más ambiguos.
 
-
+|  	 | [Carlota Braun](https://www.hostel-granada.es/)     | [The Central House](https://thecentralhousehostels.com/madrid-lavapies/)   |  [ECO Hostel](http://www.ecohostel.es/)    | [Sant Jordi Hostels](https://www.santjordihostels.com/es/sant-jordi-hostel-rock-palace/) |
+| ------------- | -------- | ----------- | ----------- | -----------  | 
+| Galería de imágenes | Si | Si | Si | Si |
+| Sección de localización | Muestra los transportes y la localización | Muestra la ubicación | Muestra los transportes y la localización | Muestra la ubicación |
+| Más de tres idiomas | Sí | Sí | No, solo tres | Solo dos |
+| Opiniones de clientes | Sí | No | No | Sí |
 
 Tras la comparación, Carlota Braun ofrece un gran catálogo de servicios que iguala al de sus competidores e incluso lo supera en algunos aspectos.  Sin embargo en otros se ve que queda ligeramente por detrás, como en el uso de cocina, la recepción 24h , o en la inexistencia de ordenadores.
 
