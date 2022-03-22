@@ -1,5 +1,5 @@
 
-## Paso 1. UX Desk Research & Analisis 
+# Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](./img/Competitive.png) 1.a Competitive Analysis
 -----
@@ -20,11 +20,11 @@ En conclusión Carlota Braun ofrece servicios variados que se equiparan y están
 
 Se ha procedido a la creación de dos personas, Paula y Andoni, para analizar el perfil de posibles clientes así como su actitud a la hora de buscar un hostel que se adapte a sus necesidades.
 
-###Andoni
+### Andoni
 
 ![Método UX](./img/andoni.png)
 
-###Paula
+### Paula
 
 ![Método UX](./img/paula.png)
 
@@ -33,11 +33,11 @@ Se ha procedido a la creación de dos personas, Paula y Andoni, para analizar el
 
 Realización de los dos mapas de experiencia de los usuarios
 
-###Andoni
+### Andoni
 
 ![Método UX](./img/andoniJourney.png)
 
-###Paula
+### Paula
 
 ![Método UX](./img/paulaJourney.png)
 
@@ -46,11 +46,11 @@ Realización de los dos mapas de experiencia de los usuarios
 
 Como documento a parte se ha adjuntado un archivo excel con la valoración de los distintos aspectos de usabilidad acerca de la página web. Cabe destacar los siguientes aspectos:
 
-##Valoración 
+## Valoración 
 
 Se ha obtenido una valoración general de **81** puntos sobre **100**.
 
-##Conclusión o resumen de la valoración
+## Conclusión o resumen de la valoración
 
 Es un sitio web estéticamente atractivo, un usuario puede acceder a la información de manera intuitiva exponiéndose a tiempos de carga medianos, tiene un SEO regular.
 
