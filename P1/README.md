@@ -13,7 +13,18 @@ A continuación se comparan los productos ofrecidos por cada uno así como algun
 | Galería de imágenes | Si | Si | Si | Si |
 | Sección de localización | Muestra los transportes y la localización | Muestra la ubicación | Muestra los transportes y la localización | Muestra la ubicación |
 | Más de tres idiomas | Sí | Sí | No, solo tres | Solo dos |
-| Opiniones de clientes | Sí | No | No | Sí |
+| Habitaciones privadas | No | No | Sí, de 2 a 4 personas | No |
+| Wiffi | Sí | Sí | Sí | Sí |
+| Uso de cocina | No | No | Sí | Sí |
+| Taquillas de seguridad | Sí | Sí | Sí | Sí |
+| Baño privado | Sí | Sí | Sí | No |
+| Aire acondicionado / Calefacción | Sí | Tiene aire acondicionado | Sí | Tiene aire acondicionado |
+| Lavandería | Sí | Sí | Sí, es un extra | Sí |
+| Recepción 24 horas | No, hasta las 22:00 | Sí | No | Sí |
+| Guarda maletas | Sí | No | No | Sí |
+| Ordenadores | No | No | No | Sí |
+| Zonas comunes | No lo especifica | Terraza, solarium y playroom | Salón y cocina | Piscina, terraza y otras salas no especificadas |
+| Servicio de habitaciones | Sí | Sí | No | No |
 
 Tras la comparación, Carlota Braun ofrece un gran catálogo de servicios que iguala al de sus competidores e incluso lo supera en algunos aspectos.  Sin embargo en otros se ve que queda ligeramente por detrás, como en el uso de cocina, la recepción 24h , o en la inexistencia de ordenadores.
 
