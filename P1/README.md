@@ -1,7 +1,7 @@
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](./img/Competitive.png) 1.a Competitive Analysis
 -----
 
 En la siguiente tabla se realiza un análisis entre el negocio objeto de estudio, Carlota Braun, y tres competidores de su mismo sector. Estos Hostels han sido escogidos de lugares distintos, The Central House se sitúa en Madrid, Eco Hostel está en Granada, como Carlota Braun, y Sant Jordi Hostels es una cadena de Hostels catalana.
@@ -15,33 +15,33 @@ Tras la comparación, Carlota Braun ofrece un gran catálogo de servicios que ig
 En conclusión Carlota Braun ofrece servicios variados que se equiparan y están al nivel del mercado actual de los hostels.
 
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](./img/Persona.png) 1.b Persona
 -----
 
 Se ha procedido a la creación de dos personas, Paula y Andoni, para analizar el perfil de posibles clientes así como su actitud a la hora de buscar un hostel que se adapte a sus necesidades.
 
 ###Andoni
 
-![Método UX](img/andoni.png)
+![Método UX](./img/andoni.png)
 
 ###Paula
 
-![Método UX](img/paula.png)
+![Método UX](./img/paula.png)
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](./img/JourneyMap.png) 1.c User Journey Map
 ----
 
 Realización de los dos mapas de experiencia de los usuarios
 
 ###Andoni
 
-![Método UX](img/andoniJourney.png)
+![Método UX](./img/andoniJourney.png)
 
 ###Paula
 
-![Método UX](img/paulaJourney.png)
+![Método UX](./img/paulaJourney.png)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](./img/usabilityReview.png) 1.d Usability Review
 ----
 
 Como documento a parte se ha adjuntado un archivo excel con la valoración de los distintos aspectos de usabilidad acerca de la página web. Cabe destacar los siguientes aspectos:
