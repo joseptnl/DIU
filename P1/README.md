@@ -38,9 +38,13 @@ Se ha procedido a la creación de dos personas, Paula y Andoni, para analizar el
 
 ### Andoni
 
+Es un chico extrovertido que busca conocer a otra gente mientras se lo pasa bien disfrutando de sus aficiones, le gusta socializar y salir de su zona de confort.
+
 ![Método UX](../img/andoni.png)
 
 ### Paula
+
+Paula es una chica tímida, muy comprometida con sus estudios, le gusta pasar tiempo con sus amigos, por lo que deciden irse un fin de semana de vacaciones juntas ahora que han acabado los exámenes.
 
 ![Método UX](../img/paula.png)
 
