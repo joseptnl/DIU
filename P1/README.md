@@ -1,7 +1,7 @@
 
 # Paso 1. UX Desk Research & Analisis 
 
-![Método UX](./img/Competitive.png) 1.a Competitive Analysis
+![Método UX](../img/Competitive.png) 1.a Competitive Analysis
 -----
 
 En la siguiente tabla se realiza un análisis entre el negocio objeto de estudio, Carlota Braun, y tres competidores de su mismo sector. Estos Hostels han sido escogidos de lugares distintos, The Central House se sitúa en Madrid, Eco Hostel está en Granada, como Carlota Braun, y Sant Jordi Hostels es una cadena de Hostels catalana.
