@@ -77,7 +77,7 @@ Como se observa se ha resaltado de color anaranjado los apartados que solo estan
 
 | ETIQEUTA | ICONO | DESCRIPCIÓN|
 |----------|-------|------------|
-| Home | ![Método UX](../img/casa.png) | Vista principal del microsite, desde la cual podemos ver las secciones principales, iniciar sesión, y ver los distintos eventos |
+| Home | ![Método UX](../img/casa.png =50x50) | Vista principal del microsite, desde la cual podemos ver las secciones principales, iniciar sesión, y ver los distintos eventos |
 | Usuario | ![Método UX](../img/usuario.png) |  Vista donde se le ofrecerá la posibilidad al usuario de iniciar sesión o registrarse |
 | Cerrar sesión | ![Método UX](../img/boton-de-encendido.png) | Vista donde el usuario confirma que quiere cerrar sesión |
 | Inicio sesión / registrarse | ![Método UX](../img/login.png) | Botón que permite enviar el formulario que hemos rellenado con nuestras credenciales / datos |
@@ -100,15 +100,15 @@ Como se observa se ha resaltado de color anaranjado los apartados que solo estan
 ### Prototipo Lo-FI Wireframe 
 | Home | User | Inicio Sesión| Registrarse |
 |------|------|--------------|-------------|
-| ![Método UX](img/home-1.jpg) | ![Método UX](img/home-2.jpg) | ![Método UX](img/registro-1.jpg) | ![Método UX](img/registro-2.jpg) |
+| ![Método UX](../img/home-1.jpg) | ![Método UX](../img/home-2.jpg) | ![Método UX](img/registro-1.jpg) | ![Método UX](../img/registro-2.jpg) |
 |------|------|--------------|-------------|
 | Mi perfil | Eventos | Eventos (Admin) | Evento |
 |------|------|--------------|-------------|
-| ![Método UX](img/registro-3.jpg) | ![Método UX](img/registro-4.jpg) | ![Método UX](img/registro-5.jpg) | ![Método UX](img/registro-6.jpg) |
+| ![Método UX](../img/registro-3.jpg) | ![Método UX](../img/registro-4.jpg) | ![Método UX](../img/registro-5.jpg) | ![Método UX](../img/registro-6.jpg) |
 
 | Evento (Admin) | Ayuda | 
 |------|------|
-| ![Método UX](img/registro-7.jpg) | ![Método UX](img/registro-7.jpg) |
+| ![Método UX](../img/registro-7.jpg) | ![Método UX](../img/registro-7.jpg) |
 
 #### Correlación de las páginas respecto al sitemap
 
