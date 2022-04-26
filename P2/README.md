@@ -9,7 +9,7 @@ Este estudio se va a realizar mediante los mapas de empatía de cada persona en 
 A continuación se adjuntan los mapas de empatía mediante imágenes.
 #### Mapa de empatía
 
-![Método UX](../img/andoni_empathy_map.png)
+<img src="../img/andony_empathy_map.png" width="750" />
 
 ### PROPUESTA DE VALOR
 Una vez hemos replanteado la propuesta de valor en el apartado anterior procedemos a diseñar una nueva propuesta descrita a continuación. Por otro lado complementamos la definición de esta mediante un LeanUX canvas que ayuda a tener una mejor visión y clarificar conceptos.
