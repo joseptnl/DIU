@@ -78,29 +78,29 @@ Como se observa se ha resaltado de color anaranjado los apartados que solo estan
 | ETIQEUTA | ICONO | DESCRIPCIÓN|
 |----------|-------|------------|
 | Home | <img src="../img/casa.png" width="50" height="50" /> | Vista principal del microsite, desde la cual podemos ver las secciones principales, iniciar sesión, y ver los distintos eventos |
-| Usuario | ![Método UX](../img/usuario.png) |  Vista donde se le ofrecerá la posibilidad al usuario de iniciar sesión o registrarse |
-| Cerrar sesión | ![Método UX](../img/boton-de-encendido.png) | Vista donde el usuario confirma que quiere cerrar sesión |
-| Inicio sesión / registrarse | ![Método UX](../img/login.png) | Botón que permite enviar el formulario que hemos rellenado con nuestras credenciales / datos |
+| Usuario | <img src="../img/usuario.png" width="50" height="50" /> |  Vista donde se le ofrecerá la posibilidad al usuario de iniciar sesión o registrarse |
+| Cerrar sesión | <img src="../img/boton-de-encendido.png" width="50" height="50" /> | Vista donde el usuario confirma que quiere cerrar sesión |
+| Inicio sesión / registrarse | <img src="../img/login.png" width="50" height="50" /> | Botón que permite enviar el formulario que hemos rellenado con nuestras credenciales / datos |
 | Eventos |  | Vista donde se visualizará todo el catálogo de eventos configurados por los administradores |
-| Ayuda | ![Método UX](../img/idea.png) | Vista donde el usuario podrá consultar ayuda sobre el funcionamiento de la aplicación así como información relevante sobre la empresa |
+| Ayuda | <img src="../img/idea.png" width="50" height="50" /> | Vista donde el usuario podrá consultar ayuda sobre el funcionamiento de la aplicación así como información relevante sobre la empresa |
 | Filtrar evento por… |  | Vista dentro de la página de Eventos, que permite al usuario filtrar los eventos en base a distintos criterios |
-| Crear evento | ![Método UX](../img/agregar.png) | Vista donde el administrador, a través de un formulario, puede configurar la información de un nuevo evento y subirlo |
-| Votar propuesta de evento | ![Método UX](../img/como.png) | Input usado por el usuario a la hora de votar por una propuesta de evento |
+| Crear evento | <img src="../img/agregar.png" width="50" height="50" /> | Vista donde el administrador, a través de un formulario, puede configurar la información de un nuevo evento y subirlo |
+| Votar propuesta de evento | <img src="../img/como.png" width="50" height="50" />| Input usado por el usuario a la hora de votar por una propuesta de evento |
 | Inscribirse a evento |  | Botón que le va a permitir al usuario apuntarse a un determinado evento |
 | Publicar sugerencias |  | Input que permite, tras redactar un formulario, enviarlo. |
 | Publicar opinión |  | Input que permite a un usuario redactar y publicar una opinión sobre un evento en el cual haya participado |
-| Cambiar idioma | ![Método UX](../img/espana.png) ![Método UX](../img/francia.png) ![Método UX](../img/gran-bretana.png) ![Método UX](../img/alemania.png) | Botón que permite elegir entre 3 idiomas para traducir la página |
-| Votar sugerencias de otros clientes | ![Método UX](../img/como.png) | Botón para votar las sugerencias que han subido otros usuarios sobre propuestas de eventos |
+| Cambiar idioma | <img src="../img/espana.png" width="50" height="50" /> <img src="../img/francia.png" width="50" height="50" /> <img src="../img/gran-bretana.png" width="50" height="50" /> <img src="../img/alemania.png" width="50" height="50" /> | Botón que permite elegir entre 3 idiomas para traducir la página |
+| Votar sugerencias de otros clientes | <img src="../img/como.png" width="50" height="50" /> | Botón para votar las sugerencias que han subido otros usuarios sobre propuestas de eventos |
 | Mis sugerencias |  | Vista que ilustra todas las sugerencias publicadas por el usuario que lo consulta |
 | Mis actividades |  | Vista de las actividades que el usuario tiene activas |
-| Editar evento | ![Método UX](../img/settings.png) | Botón para editar evento |
-| Configuración | ![Método UX](../img/settings.png) | Botón que te lleva a la configuración de tu perfil |
-| Enviar | ![Método UX](../img/send.png) | Botón para colgar opiniones y sugerencias |
+| Editar evento | <img src="../img/settings.png" width="50" height="50" /> | Botón para editar evento |
+| Configuración | <img src="../img/settings.png" width="50" height="50" /> | Botón que te lleva a la configuración de tu perfil |
+| Enviar | <img src="../img/send.png" width="50" height="50" /> | Botón para colgar opiniones y sugerencias |
 
 ### Prototipo Lo-FI Wireframe 
 | Home | User | Inicio Sesión| Registrarse |
 |------|------|--------------|-------------|
-| ![Método UX](../img/home-1.jpg) | ![Método UX](../img/home-2.jpg) | ![Método UX](img/registro-1.jpg) | ![Método UX](../img/registro-2.jpg) |
+| <img src="../img/home-1.png" width="200" height="300" /> | ![Método UX](../img/home-2.jpg) | ![Método UX](img/registro-1.jpg) | ![Método UX](../img/registro-2.jpg) |
 |------|------|--------------|-------------|
 | Mi perfil | Eventos | Eventos (Admin) | Evento |
 |------|------|--------------|-------------|
