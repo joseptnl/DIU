@@ -100,7 +100,7 @@ Como se observa se ha resaltado de color anaranjado los apartados que solo estan
 ### Prototipo Lo-FI Wireframe 
 | Home | User | Inicio Sesión| Registrarse |
 |------|------|--------------|-------------|
-| <img src="../img/home-1.png" width="200" height="300" /> | ![Método UX](../img/home-2.jpg) | ![Método UX](img/registro-1.jpg) | ![Método UX](../img/registro-2.jpg) |
+| <img src="../img/home-1.jpg" width="200" height="300" /> | ![Método UX](../img/home-2.jpg) | ![Método UX](img/registro-1.jpg) | ![Método UX](../img/registro-2.jpg) |
 |------|------|--------------|-------------|
 | Mi perfil | Eventos | Eventos (Admin) | Evento |
 |------|------|--------------|-------------|
