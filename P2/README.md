@@ -100,15 +100,15 @@ Como se observa se ha resaltado de color anaranjado los apartados que solo estan
 ### Prototipo Lo-FI Wireframe 
 | Home | User | Inicio Sesión| Registrarse |
 |------|------|--------------|-------------|
-| <img src="../img/home-1.jpg" width="250" /> | ![Método UX](../img/home-2.jpg) | ![Método UX](img/registro-1.jpg) | ![Método UX](../img/registro-2.jpg) |
+| <img src="../img/home-1.jpg" width="250" /> | <img src="../img/home-2.jpg" width="250" /> | <img src="../img/registro-1.jpg" width="250" /> | <img src="../img/registro-2.jpg" width="250" /> |
 |------|------|--------------|-------------|
 | Mi perfil | Eventos | Eventos (Admin) | Evento |
 |------|------|--------------|-------------|
-| ![Método UX](../img/registro-3.jpg) | ![Método UX](../img/registro-4.jpg) | ![Método UX](../img/registro-5.jpg) | ![Método UX](../img/registro-6.jpg) |
+| <img src="../img/registro-3.jpg" width="250" /> | <img src="../img/registro-4.jpg" width="250" /> | <img src="../img/registro-5.jpg" width="250" /> | <img src="../img/registro-6.jpg" width="250" /> |
 
 | Evento (Admin) | Ayuda | 
 |------|------|
-| ![Método UX](../img/registro-7.jpg) | ![Método UX](../img/registro-7.jpg) |
+| <img src="../img/registro-7.jpg" width="250" /> | <img src="../img/registro-8.jpg" width="250" /> |
 
 #### Correlación de las páginas respecto al sitemap
 
