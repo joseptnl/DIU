@@ -27,7 +27,7 @@ A la hora de usar texto también es necesario contar con fuentes que reflejen es
 
 | Fuente característica | Fuente de escritura | 
 | --------------------- | ------------------- | 
-| <img src="../img/fonts-1.png"> | <img src="../img/fonts-2.png"> | 
+| <img src="../img/fonts-1.png" height="400"> | <img src="../img/fonts-2.png" height="400"> | 
 
 ## Landing Page
 
