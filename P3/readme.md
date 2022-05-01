@@ -19,6 +19,10 @@ Para empezar se necesita cierta inspiración que nos permita empezar a desarroll
     <img src="../img/inspiracion4.jpg" width="500" height="300" style="object-fit: contain;"/>
 </p>
 
+Partiendo de las imágenes anteriores como inspiración obtenemos una paleta de colores que combine bien con esa experiencia visual.
+
+<img src="../img/paleta-colores.png"/>
+
 ## Landing Page
 
 ## Guidelines
