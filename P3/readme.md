@@ -14,9 +14,9 @@ Para empezar se necesita cierta inspiración que nos permita empezar a desarroll
 
 <p>
     <img src="../img/inspiracion1.png" width="500" />
-    <img src="../img/inspiracion2.jpeg" width="300" />
-    <img src="../img/inspiracion3.png" width="400"/>
-    <img src="../img/inspiracion4.jpg" height="250"/>
+    <img src="../img/inspiracion2.jpeg" width="500" />
+    <img src="../img/inspiracion3.png" width="500"/>
+    <img src="../img/inspiracion4.jpg" width="500"/>
 </p>
 
 ## Landing Page
