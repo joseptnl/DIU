@@ -33,7 +33,9 @@ Con todos los conceptos anteriores recopilados es hora de realizar un logo para 
 
 | Fondo blanco | Fondo negro | 
 | --------------------- | ------------------- | 
-| <img src="../img/logo1.png" height="400"> | <img src="../img/logo2.png" height="200"> | 
+| <img src="../img/logo1.png" height="200"> | <img src="../img/logo2.png" height="200"> | 
+
+Como se puede observar se ha cogido una clara inspiración en la marca de Carlota Braun ya que, aparte de que los colores usados son fieles a la experiencia de esta, se han usado unas gafas de sol como icono central haciendo referencia al logo de Carlota.
 
 ## Landing Page
 
