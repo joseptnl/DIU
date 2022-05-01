@@ -23,6 +23,12 @@ Partiendo de las imágenes anteriores como inspiración obtenemos una paleta de 
 
 <img src="../img/paleta-colores.png" width="500">
 
+A la hora de usar texto también es necesario contar con fuentes que reflejen ese carácter partícular que tiene la página de Carlta Braun. Se han obtenido dos estilos distintos, el de la izquierda se usará para textos cortos como títulos o contenido importante y la de la derecha será empleada para escribir el texto normal. Aús así cabe destacar que esta última también puede ser empleada para títulos.
+
+| Fuente característica | Fuente de escritura | 
+| --------------------- | ------------------- | 
+| <img src="../img/fonts-1.png"> | <img src="../img/fonts-2.png"> | 
+
 ## Landing Page
 
 ## Guidelines
