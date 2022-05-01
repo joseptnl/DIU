@@ -12,19 +12,25 @@ En esta parte de la práctica se pretende realizar el diseño del microsite prop
 
 <img src="../img/moodboard1.png"/>
 
-Para empezar se necesita cierta inspiración que nos permita empezar a desarrollar el aspecto visual de la página. Por ello a continuación de adjuntan varias imágenes que nos permiten hacernos a la idea de que experiencias y sensaciones nos trasmitirá el diseño de la aplicación.
+### Imágenes de inspiración
 
-Partiendo de las imágenes anteriores como inspiración obtenemos una paleta de colores que combine bien con esa experiencia visual.
+Para empezar se necesita cierta inspiración que nos permita empezar a desarrollar el aspecto visual de la página. Por ello se adjuntan varias imágenes que nos permiten hacernos a la idea de que experiencias y sensaciones nos debe transmitir el diseño de la aplicación. Como podemos ver se trata de imágenes con un tono cálido, que invitan a disfrutar de la gastronomía y de la cultura emanando un cierto sentimiento de pasión hacia el <u>Carpe Diem</u>.
 
-A la hora de usar texto también es necesario contar con fuentes que reflejen ese carácter partícular que tiene la página de Carlta Braun. Se han obtenido dos estilos distintos, el de la izquierda se usará para textos cortos como títulos o contenido importante y la de la derecha será empleada para escribir el texto normal. Aús así cabe destacar que esta última también puede ser empleada para títulos.
+### Paleta de colores
+
+La paleta de colores extraida a partir de las imágenes viene a representar todas aquellas sensaciones comentadas. Gracias a esta el diseño cobrará vida y reflejará la experiencia visual deseada.
+
+### Fuentes
+
+A la hora de usar texto también es necesario contar con fuentes que reflejen ese carácter partícular que tiene la página de Carlota Braun. Se han obtenido dos estilos distintos, el de la izquierda se usará para textos cortos como títulos o contenido importante y el de la derecha será empleado para escribir el texto normal. Aús así cabe destacar que esta última también puede ser empleada para títulos.
+
+### Logotipo
+
+Con todos los conceptos anteriores recopilados se ha realizado un logotipo para la aplicación. Se adjuntan dos variaciones de éste para que pueda ser usado tanto en fondos negros como en fondos blancos. Como se puede observar se ha cogido una clara inspiración en la marca de Carlota Braun ya que, aparte de que los colores usados son fieles a la experiencia de esta, se han usado unas gafas de sol como icono central haciendo referencia al logo de Carlota.
+
+### Iconos
 
 Toda buena aplicación necesita transmitir de manera rápida y eficaz la información al usuario sin que este tenga que realizar un gran esfuerzo de comprensión, por ende se usa un conjunto de iconos que facilitan la interacción con el sitio.
-
-En la tabla se muestra el conjunto de iconos que serán usados ne la IU:
-
-Con todos los conceptos anteriores recopilados es hora de realizar un logotipo para la aplicación. A continuación se adjuntan dos variaciones de éste para que pueda ser usado tanto en fondos negros como en fondos blancos.
-
-Como se puede observar se ha cogido una clara inspiración en la marca de Carlota Braun ya que, aparte de que los colores usados son fieles a la experiencia de esta, se han usado unas gafas de sol como icono central haciendo referencia al logo de Carlota.
 
 ## Landing Page
 
