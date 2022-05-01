@@ -29,6 +29,12 @@ A la hora de usar texto también es necesario contar con fuentes que reflejen es
 | --------------------- | ------------------- | 
 | <img src="../img/fonts-1.png" height="400"> | <img src="../img/fonts-2.png" height="400"> | 
 
+Con todos los conceptos anteriores recopilados es hora de realizar un logo para la aplicación. A continuación se adjuntan dos variaciones de éste para que pueda ser usado tanto en fondos negros como en fondos blancos.
+
+| Fondo blanco | Fondo negro | 
+| --------------------- | ------------------- | 
+| <img src="../img/logo1.png" height="400"> | <img src="../img/logo2.png" height="200"> | 
+
 ## Landing Page
 
 ## Guidelines
