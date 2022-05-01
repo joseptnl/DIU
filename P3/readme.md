@@ -15,7 +15,7 @@ Para empezar se necesita cierta inspiración que nos permita empezar a desarroll
 <p>
     <img src="../img/inspiracion1.png" width="500" height="300" style="object-fit: contain;"/>
     <img src="../img/inspiracion2.jpeg" width="500" height="300" style="object-fit: contain;" />
-    <img src="../img/inspiracion3.png" width="500" height="300" style="object-fit: contain;"/>
+    <img src="../img/inspiracion3.png" width="500" height="300" style="object-fit: cover;"/>
     <img src="../img/inspiracion4.jpg" width="500" height="300" style="object-fit: contain;"/>
 </p>
 
