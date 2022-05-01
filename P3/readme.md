@@ -12,10 +12,10 @@ En esta parte de la práctica se pretende realizar el diseño del microsite prop
 
 Para empezar se necesita cierta inspiración que nos permita empezar a desarrollar el aspecto visual de la página. Por ello a continuación de adjuntan varias imágenes que nos permiten hacernos a la idea de que experiencias y sensaciones nos trasmitirá el diseño de la aplicación.
 
-![Método UX](../img/inspiracion1.png)
-![Método UX](../img/inspiracion2.jpeg)
-![Método UX](../img/inspiracion3.png)
-![Método UX](../img/inspiracion4.jpg)
+<img src="../img/inspiracion1.png" width="50" height="50" />
+<img src="../img/inspiracion2.jpeg" width="50" height="50" />
+<img src="../img/inspiracion3.png" width="50" height="50" />
+<img src="../img/inspiracion4.jpg" width="50" height="50" />
 
 ## Landing Page
 
