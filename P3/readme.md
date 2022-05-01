@@ -21,7 +21,7 @@ Para empezar se necesita cierta inspiración que nos permita empezar a desarroll
 
 Partiendo de las imágenes anteriores como inspiración obtenemos una paleta de colores que combine bien con esa experiencia visual.
 
-<img src="../img/paleta-colores.png"/>
+<img src="../img/paleta-colores.png" width="500">
 
 ## Landing Page
 
