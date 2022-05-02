@@ -10,7 +10,7 @@ En esta parte de la práctica se pretende realizar el diseño del microsite prop
 
 ## Moodboard (diseño visual + logotipo)   
 
-<img src="../img/moodboard1.png"/>
+<img src="../img/moodboard2.png"/>
 
 ### Imágenes de inspiración
 
