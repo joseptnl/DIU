@@ -34,6 +34,8 @@ Toda buena aplicación necesita transmitir de manera rápida y eficaz la informa
 
 ## Landing Page
 
+<img src="../img/landingpage1.png"/>
+
 ## Guidelines
 
 ## Mockup: LAYOUT HI-FI
