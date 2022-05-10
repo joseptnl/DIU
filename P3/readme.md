@@ -42,50 +42,51 @@ Antes de proceder con el diseño es necesario que tengamos claro cuales son los 
 
 ### Patrones de diseño
 
-A continuación se describen, separados en secciones, los más relevantes.
+A continuación se describen, en base a nuestra aplicación, los más relevantes.
 
 #### Obtener información
 
-- Settings
-- Good defaults
-- Input feedback
-- Calendar picker
-- Expandable input
-- Input prompt
-- Inline help box
-- Rate content
-- Vote to promote
-- Flagging and reporting
+- Configuración: Permite configurar los parámetros de la aplicación. 
+- Buenos valores predeterminados: Un valor por defecto con probabilidades de encajar en la información deseada por usuario.
+- Retroalimentación de los inputs: Al introducir la información se aporta retroalimentación.
+- Selección en calendario: Se usuará para seleccionar la fecha de un evento.
+- Input ampliable: Input que aparece cuando se quiere escribir una sugerencia u opinions.
+- Indicación de input: Indica la información a introducir.
+- Cuadro de ayuda: Caja que aparece encima de los formularios que pretende aportar retroalimentación.
+- Valorar contenido: Valorar propuesta de evento o evento.
+- Votar para promover: Permite a los usuarios votar otras sugerencias.
+- Reportar: Permite a un usuario reportar sugerencias u opiniones que puedan herir a demás usuarios.
 
 #### Navegación
 
-- Module tabs
-- Home link
-- Modal
-- Vertical dropdown menu
-- Cards
-- Continuous scrolling
-- Event calendar
-- Tagging
-- Favorites
+- Pestañas de módulo: Permiten intercambiar entre el contenedor de sugerencias y el de opiniones.
+- Link al home: Permite volver a la página principal desde el título o logo.
+- Modal: Permite acceder a formularios y demás contenido sin salir de la vista actual.
+- Menú vertical desplegable: Permite cambiar el idioma y seleccionar el valor de algunos filtros.
+- Tarjetas: Posibilita la visualización de los eventos de manera elegante.
+- Scroll contínuo: Consiste en que a medida que se vaya bajando por la página se recarguen nuevas tarjetas.
+- Calendario de eventos: Visualiza los eventos ordenados por la fecha.
+- Etiquetado: Permite buscar a través de palabras clave.
+- Favoritos: El usuario puede seleccionar sus eventos o propuestas como favoritos para encontrarlos fácilmente después.
 
 #### Tratamiento de datos
 
-- FAQ
-- Slideshow
-- Autocomplete
-- Search filters
+- FAQ: Preguntas y respuestas habituales de la sección de ayuda.
+- Diapositivas: Permite visualizar distintas imágenes en la vista principal.
+- Autocompletado: Autocompleta el campo de búsqueda de eventos.
+- Filtros de búsqueda: Permiten realizar búsquedas más facilmente a través de restricciones.
 
 #### Social
 
-- Leaderboard
+- Leaderboard: Permite obtener los eventos más populares.
 
 #### Identificación y guia
 
-- Lazy registration
-- Account registration
+- Sin necesidad de registro: Consiste en que un usuario es capaz de realizar acciones en la aplicación sin la necesidad de tener que crearse una cuenta.
+- Registro de cuenta: Permite crear una nueva cuenta de usuario.
 
 ### Lenguage visual y estructura de la aplicación
+
 
 ## Mockup: LAYOUT HI-FI
 
