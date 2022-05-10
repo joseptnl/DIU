@@ -101,7 +101,11 @@ Para empezar el negro da un toque formal que combina muy bien con el rojo más o
 
 ### Estructura del diseño
 
-La estructura se basa en la 
+La estructura se basa en un menú básico en la parte inferior que comparten todas las vistas y a partir de la cual se puede navegar entre ellas. La parte posterior de cada vista también contendrá una barra con el título de la marca, que permitirá volver al home, y una opción que permita cambiar de idiomar mediante un menú vertical desplegable. 
+
+Todo el contenido debe estar bien diferenciado de manera que el usuario pueda distinguir las distintas secciones y no se sienta abrumado por la falta de espacio o la asimetría.
+
+Los botones, en su gran mayoría serán de color rojo (#C00000) aunque puede haber variaciones con las tonalidades (#700000) o (#FF5E5E). Por otro lado las proporciones en los formularios mantendrán todas las mismas proporciones y los campos de estos responderán a la misma apariencia.
 
 ## Mockup: LAYOUT HI-FI
 
