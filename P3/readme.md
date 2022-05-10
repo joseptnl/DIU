@@ -38,6 +38,23 @@ Toda buena aplicación necesita transmitir de manera rápida y eficaz la informa
 
 ## Guidelines
 
+Antes de proceder con el diseño es necesario que tengamos claro cuales son los patrones relevantes que vamos a necesitar. Para ello hemos seleccionado un cojunto de estos que nos permitirá desarrollar de manera completa la aplicación, permitiendo la implementación de todas las funcionalidades.
+
+### Patrones de diseño
+
+A continuación se describen, separados en secciones, los más relevantes.
+
+- Obtener información
+
+* Hola
+
+#### Navegación
+#### Tratamiento de datos
+#### Social
+#### Identificación y guia
+
+### Lenguage visual y estructura de la aplicación
+
 ## Mockup: LAYOUT HI-FI
 
 ## Documentación: Publicación del Case Study
