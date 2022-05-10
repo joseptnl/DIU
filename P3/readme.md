@@ -44,14 +44,46 @@ Antes de proceder con el diseño es necesario que tengamos claro cuales son los 
 
 A continuación se describen, separados en secciones, los más relevantes.
 
-- Obtener información
+#### Obtener información
 
-* Hola
+- Settings
+- Good defaults
+- Input feedback
+- Calendar picker
+- Expandable input
+- Input prompt
+- Inline help box
+- Rate content
+- Vote to promote
+- Flagging and reporting
 
 #### Navegación
+
+- Module tabs
+- Home link
+- Modal
+- Vertical dropdown menu
+- Cards
+- Continuous scrolling
+- Event calendar
+- Tagging
+- Favorites
+
 #### Tratamiento de datos
+
+- FAQ
+- Slideshow
+- Autocomplete
+- Search filters
+
 #### Social
+
+- Leaderboard
+
 #### Identificación y guia
+
+- Lazy registration
+- Account registration
 
 ### Lenguage visual y estructura de la aplicación
 
