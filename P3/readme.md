@@ -83,7 +83,7 @@ A continuación se describen, en base a nuestra aplicación, los más relevantes
 #### Identificación y guia
 
 - <u>Sin necesidad de registro</u>: Consiste en que un usuario es capaz de realizar acciones en la aplicación sin la necesidad de tener que crearse una cuenta.
-- <u>Registro de cuenta</u>: Permite crear una nueva cuenta de usuario.
+- ~Registro de cuenta: Permite crear una nueva cuenta de usuario.
 
 ### Lenguage visual y estructura de la aplicación
 
