@@ -85,8 +85,19 @@ A continuación se describen, en base a nuestra aplicación, los más relevantes
 - **Sin necesidad de registro**: Consiste en que un usuario es capaz de realizar acciones en la aplicación sin la necesidad de tener que crearse una cuenta.
 - **Registro de cuenta**: Permite crear una nueva cuenta de usuario.
 
-### Lenguage visual y estructura de la aplicación
+### Guías de estilo
 
+El estilo de nuestra aplicación se basa principalmente en un lenguaje visual extraido de las sensaciones del moodboard del primer apartado y una estructuración diseñada a partir de los patrones de diseño expuestos combinados con los iconos descritos también en el moodboard.
+
+#### Lenguaje visual
+
+El lenguaje visual contempla la siguiente paleta de colores:
+
+<img src="../img/paleta2.png"/>
+
+### Estructura del diseño
+
+La estructura se basa en la 
 
 ## Mockup: LAYOUT HI-FI
 
