@@ -72,7 +72,7 @@ A continuación se describen, en base a nuestra aplicación, los más relevantes
 #### Tratamiento de datos
 
 - FAQ: Preguntas y respuestas habituales de la sección de ayuda.
-- Diapositivas: Permite visualizar distintas imágenes en la vista principal.
+- *Diapositivas*: Permite visualizar distintas imágenes en la vista principal.
 - Autocompletado: Autocompleta el campo de búsqueda de eventos.
 - Filtros de búsqueda: Permiten realizar búsquedas más facilmente a través de restricciones.
 
