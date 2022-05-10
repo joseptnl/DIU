@@ -46,44 +46,44 @@ A continuación se describen, en base a nuestra aplicación, los más relevantes
 
 #### Obtener información
 
-- Configuración: Permite configurar los parámetros de la aplicación. 
-- Buenos valores predeterminados: Un valor por defecto con probabilidades de encajar en la información deseada por usuario.
-- Retroalimentación de los inputs: Al introducir la información se aporta retroalimentación.
-- Selección en calendario: Se usuará para seleccionar la fecha de un evento.
-- Input ampliable: Input que aparece cuando se quiere escribir una sugerencia u opinions.
-- Indicación de input: Indica la información a introducir.
-- Cuadro de ayuda: Caja que aparece encima de los formularios que pretende aportar retroalimentación.
-- Valorar contenido: Valorar propuesta de evento o evento.
-- Votar para promover: Permite a los usuarios votar otras sugerencias.
-- Reportar: Permite a un usuario reportar sugerencias u opiniones que puedan herir a demás usuarios.
+- <u>Configuración</u>: Permite configurar los parámetros de la aplicación. 
+- <u>Buenos valores predeterminados</u>: Un valor por defecto con probabilidades de encajar en la información deseada por usuario.
+- <u>Retroalimentación de los inputs: Al introducir la información se aporta retroalimentación.
+- <u>Selección en calendario</u>: Se usuará para seleccionar la fecha de un evento.
+- <u>Input ampliable</u>: Input que aparece cuando se quiere escribir una sugerencia u opinions.
+- <u>Indicación de input</u>: Indica la información a introducir.
+- <u>Cuadro de ayuda</u>: Caja que aparece encima de los formularios que pretende aportar retroalimentación.
+- <u>Valorar contenido</u>: Valorar propuesta de evento o evento.
+- <u>Votar para promover</u>: Permite a los usuarios votar otras sugerencias.
+- <u>Reportar</u>: Permite a un usuario reportar sugerencias u opiniones que puedan herir a demás usuarios.
 
 #### Navegación
 
-- Pestañas de módulo: Permiten intercambiar entre el contenedor de sugerencias y el de opiniones.
-- Link al home: Permite volver a la página principal desde el título o logo.
-- Modal: Permite acceder a formularios y demás contenido sin salir de la vista actual.
-- Menú vertical desplegable: Permite cambiar el idioma y seleccionar el valor de algunos filtros.
-- Tarjetas: Posibilita la visualización de los eventos de manera elegante.
-- Scroll contínuo: Consiste en que a medida que se vaya bajando por la página se recarguen nuevas tarjetas.
-- Calendario de eventos: Visualiza los eventos ordenados por la fecha.
-- Etiquetado: Permite buscar a través de palabras clave.
-- Favoritos: El usuario puede seleccionar sus eventos o propuestas como favoritos para encontrarlos fácilmente después.
+- <u>Pestañas de módulo</u>: Permiten intercambiar entre el contenedor de sugerencias y el de opiniones.
+- <u>Link al home</u>: Permite volver a la página principal desde el título o logo.
+- <u>Modal</u>: Permite acceder a formularios y demás contenido sin salir de la vista actual.
+- <u>Menú vertical desplegable</u>: Permite cambiar el idioma y seleccionar el valor de algunos filtros.
+- <u>Tarjetas</u>: Posibilita la visualización de los eventos de manera elegante.
+- <u>Scroll contínuo</u>: Consiste en que a medida que se vaya bajando por la página se recarguen nuevas tarjetas.
+- <u>Calendario de eventos</u>: Visualiza los eventos ordenados por la fecha.
+- <u>Etiquetado</u>: Permite buscar a través de palabras clave.
+- <u>Favoritos</u>: El usuario puede seleccionar sus eventos o propuestas como favoritos para encontrarlos fácilmente después.
 
 #### Tratamiento de datos
 
-- FAQ: Preguntas y respuestas habituales de la sección de ayuda.
-- *Diapositivas*: Permite visualizar distintas imágenes en la vista principal.
-- Autocompletado: Autocompleta el campo de búsqueda de eventos.
-- Filtros de búsqueda: Permiten realizar búsquedas más facilmente a través de restricciones.
+- <u>FAQ</u>: Preguntas y respuestas habituales de la sección de ayuda.
+- <u>Diapositivas</u>: Permite visualizar distintas imágenes en la vista principal.
+- <u>Autocompletado</u>: Autocompleta el campo de búsqueda de eventos.
+- <u>Filtros de búsqueda</u>: Permiten realizar búsquedas más facilmente a través de restricciones.
 
 #### Social
 
-- Leaderboard: Permite obtener los eventos más populares.
+- <u>Leaderboard</u>: Permite obtener los eventos más populares.
 
 #### Identificación y guia
 
-- Sin necesidad de registro: Consiste en que un usuario es capaz de realizar acciones en la aplicación sin la necesidad de tener que crearse una cuenta.
-- Registro de cuenta: Permite crear una nueva cuenta de usuario.
+- <u>Sin necesidad de registro</u>: Consiste en que un usuario es capaz de realizar acciones en la aplicación sin la necesidad de tener que crearse una cuenta.
+- <u>Registro de cuenta</u>: Permite crear una nueva cuenta de usuario.
 
 ### Lenguage visual y estructura de la aplicación
 
