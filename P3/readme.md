@@ -95,6 +95,10 @@ El lenguaje visual contempla la siguiente paleta de colores:
 
 <img src="../img/paleta2.png"/>
 
+Los colores que contemplamos se han escogido a consciencia ya que se quiere transmitir esa sensación de calidez y cercanía plasmada en las imágenes del moodboard.
+
+Para empezar el negro da un toque formal que combina muy bien con el rojo más oscuro, un rojo que transmite una sensación que podría recordar al sabor del vino o al ritmo de un tablado flamenco. Por otro lado también queremos que la aplicación se sienta viva como un atardecer en Granada, por ende, se han descrito dos rojos con tonalidades más claras. En última instancia se quiere dar una visión de limpieza y nitidez usando el color blanco absoluto, un color que permite al usuario dar un respiro y sentirse cómodo navegando a través de las páginas.
+
 ### Estructura del diseño
 
 La estructura se basa en la 
