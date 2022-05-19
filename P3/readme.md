@@ -1,12 +1,6 @@
 # DIU - Practica 3
 
-En esta parte de la práctica se pretende realizar el diseño del microsite propuesto en la segundo parte realizada anteriormente. Para ello se procederá a través de varias etapas las cuales ayudarán a plantear mejor la idea y poder sacar un diseño de calidad. Estas son:
-
-- Moodboard: Consiste en el confeccionamiento de un "tablero" que ayude a identificar la experiencia visual que debe tener la aplicación así como también aporta un logotipo.
-
-- Landing page: Se basa en crear el diseño, a partir del moodboard, de una landing page para el microsite, es decir, se creará la vista con un solo boceto de una página promocional.
-
-- Mockup: 
+El proyecto consiste en el desarrollo de una aplicación móbil para que el usuario, cliente de CarlotaBraun, pueda decidir qué eventos quiere realizar durante su estancia. El administrador irá publicando propuestas de actividades y los usuarios podrán votar cuales prefieren, entonces se elegirá la más popular y se programará para una fecha en concreto. Como añadidos los usuarios podrán colgar sugerencias acerca de cambios o mejoras en las propuestas publicadas así como votar las sugerencias de otros Una vez haya acabado una actividad los usuarios que hayan participado podrán subir su experiencia u opinión así como una valoración numérica.
 
 ## Moodboard (diseño visual + logotipo)   
 
@@ -22,7 +16,7 @@ La paleta de colores extraida a partir de las imágenes viene a representar toda
 
 ### Fuentes
 
-A la hora de usar texto también es necesario contar con fuentes que reflejen ese carácter partícular que tiene la página de Carlota Braun. Se han obtenido dos estilos distintos, el de la izquierda se usará para textos cortos como títulos o contenido importante y el de la derecha será empleado para escribir el texto normal. Aús así cabe destacar que esta última también puede ser empleada para títulos.
+A la hora de usar texto también es necesario contar con fuentes que reflejen ese carácter partícular que tiene la página de Carlota Braun. Se han obtenido dos estilos distintos de la página de [google fonts](https://fonts.google.com/), el de la izquierda **"Dancing Script"** se usará para textos cortos como títulos o contenido importante y el de la derecha **"Montserrat"** será empleado para escribir el texto normal. Aús así cabe destacar que esta última también puede ser empleada para títulos. 
 
 ### Logotipo
 
@@ -30,7 +24,7 @@ Con todos los conceptos anteriores recopilados se ha realizado un logotipo para 
 
 ### Iconos
 
-Toda buena aplicación necesita transmitir de manera rápida y eficaz la información al usuario sin que este tenga que realizar un gran esfuerzo de comprensión, por ende se usa un conjunto de iconos que facilitan la interacción con el sitio.
+Toda buena aplicación necesita transmitir de manera rápida y eficaz la información al usuario sin que este tenga que realizar un gran esfuerzo de comprensión, por ende se usa un conjunto de iconos que facilitan la interacción con el sitio. Estos iconos se han sacado de la aplicación de Flaticons [Flat icons](https://www.flaticon.com/).
 
 ## Landing Page
 
@@ -42,7 +36,7 @@ Antes de proceder con el diseño es necesario que tengamos claro cuales son los 
 
 ### Patrones de diseño
 
-A continuación se describen, en base a nuestra aplicación, los más relevantes.
+A continuación se describen, en base a nuestra aplicación, los más relevantes. Estos han sido extraídos de la página [patrones diseño](https://ui-patterns.com/patterns/) ya que continene un cojunto muy variado de patrones además de su completa descripción y ejemplos.
 
 #### Obtener información
 
@@ -109,8 +103,21 @@ Los botones, en su gran mayoría serán de color rojo (#C00000) aunque puede hab
 
 ## Mockup: LAYOUT HI-FI
 
+| Home | User | Inicio Sesión| Registrarse |
+|------|------|--------------|-------------|
+| <img src="../img/ahome.png" width="250" /> | <img src="../img/auser.png" width="250" /> | <img src="../img/alogin.png" width="250" /> | <img src="../img/aregister.png" width="250" /> |
+|------|------|--------------|-------------|
+| Mi perfil | Eventos programados | Evento programado | Eventos propuestos |
+|------|------|--------------|-------------|
+| <img src="../img/aperfil.png" width="250" /> | <img src="../img/aeventosprogramados.png" width="250" /> | <img src="../img/aeventoprogramado.png" width="250" /> | <img src="../img/aeventospropuestos.png" width="250" /> |
+
+| Evento propuesto | Eventos realizados | Evento realizado |
+|------|------|------|
+| <img src="../img/aeventopropuesto.png" width="250" /> | <img src="../img/aeventosrealizados.png" width="250" /> | <img src="../img/aeventorealizado.png" width="250" /> |
+
 ## Documentación: Publicación del Case Study
 
+Tras realizar esta práctica hemos podido atravesar, de primera mano, el proceso que conlleva el diseño completo de una interfaz con todo el trabajo que esto conlleva, desde la elección de una adecuada paleta de colores al diseño de un buen logotipo o una fuente correcta. Además hemos aprendido acerca de patrones de diseño que luego han sido implementados correctamente a la hora de diseñar los Prototipos HIFI.
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+En conclusión, gracias a la realización de esta práctica nos hemos podido poner en la piel de un diseñador de interfaces y hemos comprendido que esto no resulta una tarea sencilla, conlleva un gran esfuerzo y ser muy cuidadoso con todos los detalles para que el resultado final sea correcto.
  
