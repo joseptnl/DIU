@@ -106,7 +106,6 @@ Los botones, en su gran mayoría serán de color rojo (#C00000) aunque puede hab
 | Home | User | Inicio Sesión| Registrarse |
 |------|------|--------------|-------------|
 | <img src="../img/ahome.png" width="250" /> | <img src="../img/auser.png" width="250" /> | <img src="../img/alogin.png" width="250" /> | <img src="../img/aregister.png" width="250" /> |
-|------|------|--------------|-------------|
 | Mi perfil | Eventos programados | Evento programado | Eventos propuestos |
 |------|------|--------------|-------------|
 | <img src="../img/aperfil.png" width="250" /> | <img src="../img/aeventosprogramados.png" width="250" /> | <img src="../img/aeventoprogramado.png" width="250" /> | <img src="../img/aeventospropuestos.png" width="250" /> |
@@ -114,6 +113,8 @@ Los botones, en su gran mayoría serán de color rojo (#C00000) aunque puede hab
 | Evento propuesto | Eventos realizados | Evento realizado |
 |------|------|------|
 | <img src="../img/aeventopropuesto.png" width="250" /> | <img src="../img/aeventosrealizados.png" width="250" /> | <img src="../img/aeventorealizado.png" width="250" /> |
+
+Todos estos diseños se han integrado mediante una simulación gravada incluida en la carpeta con dicho nombre en este mismo repositorio.
 
 ## Documentación: Publicación del Case Study
 
