@@ -117,7 +117,7 @@ Los botones, en su gran mayoría serán de color rojo (#C00000) aunque puede hab
 
 Todos estos diseños se han integrado mediante una simulación gravada incluida en la carpeta con dicho nombre en este mismo repositorio.
 
-## Documentación: Publicación del Case Study
+## Valoración y conclusión de la práctica
 
 Tras realizar esta práctica hemos podido atravesar, de primera mano, el proceso que conlleva el diseño completo de una interfaz con todo el trabajo que esto conlleva, desde la elección de una adecuada paleta de colores al diseño de un buen logotipo o una fuente correcta. Además hemos aprendido acerca de patrones de diseño que luego han sido implementados correctamente a la hora de diseñar los Prototipos HIFI.
 
