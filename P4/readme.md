@@ -24,7 +24,7 @@ En esta práctica se han elegido 4 usuarios los cuales tienen atributos y carác
 ### Experiencia con las distintas plataformas tecnológicas
 
 | Plataforma | Pedro Sánchez **Caso A** | Inés López **Caso A** | Laura Medina **Caso B** | Manolo García **Caso B** |
-|----|------|--------------|-------------|
+|----|------|--------------|-------------|-------------|
 | Windows | 2 / 5 | 4 / 5 | 1 / 5 | 5 / 5 |
 | Mac | 5 / 5 | 1 / 5 | 0 / 5 | 1 / 5 |
 | Linux | 0 / 5 | 0 / 5 | 0 / 5 | 0 / 5 |
