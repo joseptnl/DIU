@@ -7,14 +7,14 @@ En esta práctica se han elegido 4 usuarios los cuales tienen atributos y carác
 
 ### Atributos
 
-- Aplicación A
+- Aplicación A (CarlotaExperience)
 
 | id | Sexo / edad | Ocupación | Experiencia internet | Perfil cubierto |
 |----|------|--------------|-------------|-----|
 | Inés López | Mujer / 23 | Estudiante | Avanzado | 4 - 1 - 3 |
 | Laura Medina | Mujer / 36 | Monitora de yoga | Bajo | 1 - 4 - 3 |
 
-- Aplicación B
+- Aplicación B (Anca)
 
 | id | Sexo / edad | Ocupación | Experiencia internet | Perfil cubierto |
 |----|------|--------------|-------------|-----|
@@ -50,7 +50,7 @@ Poder encontrar habitaciones familiares para poder ir con los niños sería de g
 
 ## Resultados de SUS 
 
-A continuación se muestran los resultados obtenidos a partir del cuestionario SUS a partir de la experiencia de los cuatro distintos usuarios.
+A continuación se muestran los resultados obtenidos a partir del cuestionario SUS en base a la experiencia de los cuatro distintos usuarios.
 
 <img src="../img/resultados-sus.png"/>
 
@@ -60,7 +60,7 @@ A continuación se muestran los resultados obtenidos a partir del cuestionario S
 
 | PREGUNTA | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="50" height="50"/> |  |  |  |
+| Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="50" height="25"/> |  |  |  |
 | Encontré el website innecesariamente complejo |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
 | Pensé que era fácil utilizar este website |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
 | Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
@@ -88,7 +88,7 @@ utilizar el website |  |  |  |  | <img src="../img/close.png" width="50" height=
 | Me sentí muy confiado en el manejo del website |  |  |  |  | <img src="../img/close.png" width="50" height="50"/> |
 | Necesito aprender muchas cosas antes de manejarse en el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
 
-## Usability Report de Caso B
+## Usability Report de Anca
 
 
 
