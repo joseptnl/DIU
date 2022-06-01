@@ -61,32 +61,32 @@ A continuación se muestran los resultados obtenidos a partir del cuestionario S
 | PREGUNTA | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
 | Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="50" height="25"/> |  |  |  |
-| Encontré el website innecesariamente complejo |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
-| Pensé que era fácil utilizar este website |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
-| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
-| Encontré las funciones del website bastante bien integradas |  |  |  |  | <img src="../img/close.png" width="50" height="50"/> |
-| Pensé que había demasiada inconsistencia en el website |  | <img src="../img/close.png" width="50" height="50"/> |  |  |  |
+| Encontré el website innecesariamente complejo |  |  | <img src="../img/close.png" width="50" height="25"/> |  |  |
+| Pensé que era fácil utilizar este website |  |  | <img src="../img/close.png" width="50" height="25"/> |  |  |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
+| Encontré las funciones del website bastante bien integradas |  |  |  |  | <img src="../img/close.png" width="50" height="25"/> |
+| Pensé que había demasiada inconsistencia en el website |  | <img src="../img/close.png" width="50" height="25"/> |  |  |  |
 | Imagino que la mayoría de las personas aprenderían muy rápidamente a
-utilizar el website |  |  |  | <img src="../img/close.png" width="50" height="50"/> |  |
-| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
-| Me sentí muy confiado en el manejo del website |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
-| Necesito aprender muchas cosas antes de manejarse en el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+utilizar el website |  |  |  | <img src="../img/close.png" width="50" height="25"/> |  |
+| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
+| Me sentí muy confiado en el manejo del website |  |  | <img src="../img/close.png" width="50" height="25"/> |  |  |
+| Necesito aprender muchas cosas antes de manejarse en el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
 
 - Inés López
 
 | PREGUNTA | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| Creo que me gustará visitar con frecuencia este website |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
-| Encontré el website innecesariamente complejo | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
-| Pensé que era fácil utilizar este website |  |  |  |  | <img src="../img/close.png" width="50" height="50"/> |
-| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
-| Encontré las funciones del website bastante bien integradas |  |  |  | <img src="../img/close.png" width="50" height="50"/> |  |
-| Pensé que había demasiada inconsistencia en el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+| Creo que me gustará visitar con frecuencia este website |  |  | <img src="../img/close.png" width="50" height="25"/> |  |  |
+| Encontré el website innecesariamente complejo | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
+| Pensé que era fácil utilizar este website |  |  |  |  | <img src="../img/close.png" width="50" height="25"/> |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
+| Encontré las funciones del website bastante bien integradas |  |  |  | <img src="../img/close.png" width="50" height="25"/> |  |
+| Pensé que había demasiada inconsistencia en el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
 | Imagino que la mayoría de las personas aprenderían muy rápidamente a
-utilizar el website |  |  |  |  | <img src="../img/close.png" width="50" height="50"/> |
-| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
-| Me sentí muy confiado en el manejo del website |  |  |  |  | <img src="../img/close.png" width="50" height="50"/> |
-| Necesito aprender muchas cosas antes de manejarse en el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+utilizar el website |  |  |  |  | <img src="../img/close.png" width="50" height="25"/> |
+| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
+| Me sentí muy confiado en el manejo del website |  |  |  |  | <img src="../img/close.png" width="50" height="25"/> |
+| Necesito aprender muchas cosas antes de manejarse en el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
 
 ## Usability Report de Anca
 
