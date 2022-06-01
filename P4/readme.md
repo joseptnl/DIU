@@ -121,7 +121,7 @@ utilizar el website |  |  |  |  |  |
 
 | PREGUNTA | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="5" height="5"/> |  |  |  |
+| Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="10" height="10"/> |  |  |  |
 | Encontré el website innecesariamente complejo |  |  |  |  |  |
 | Pensé que era fácil utilizar este website |  |  |  |  |  |
 | Creo que necesitaría del apoyo de un experto para recorrer el website |  |  |  |  |  |
