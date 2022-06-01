@@ -103,17 +103,17 @@ A continuación se muestra una tabla con la información de como han quedado los
 
 | PREGUNTA | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="25" height="25"/> |  |  |  |
-| Encontré el website innecesariamente complejo |  |  |  |  |  |
-| Pensé que era fácil utilizar este website |  |  |  |  |  |
-| Creo que necesitaría del apoyo de un experto para recorrer el website |  |  |  |  |  |
-| Encontré las funciones del website bastante bien integradas |  |  |  |  |  |
-| Pensé que había demasiada inconsistencia en el website |  |  |  |  |  |
+| Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="10" height="10"/> |  |  |  |
+| Encontré el website innecesariamente complejo | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
+| Pensé que era fácil utilizar este website |  |  |  | <img src="../img/close.png" width="10" height="10"/> |  |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
+| Encontré las funciones del website bastante bien integradas |  |  | <img src="../img/close.png" width="10" height="10"/> |  |  |
+| Pensé que había demasiada inconsistencia en el website |  |  |  | <img src="../img/close.png" width="10" height="10"/> |  |
 | Imagino que la mayoría de las personas aprenderían muy rápidamente a
-utilizar el website |  |  |  |  |  |
-| Encontré el website muy grande al recorrerlo |  |  |  |  |  |
-| Me sentí muy confiado en el manejo del website |  |  |  |  |  |
-| Necesito aprender muchas cosas antes de manejarse en el |  |  |  |  |
+utilizar el website |  |  |  |  | <img src="../img/close.png" width="10" height="10"/> |
+| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
+| Me sentí muy confiado en el manejo del website |  |  | <img src="../img/close.png" width="10" height="10"/> |  |  |
+| Necesito aprender muchas cosas antes de manejarse en el | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
 
 > Puntuación: **72,5**
 
@@ -121,17 +121,17 @@ utilizar el website |  |  |  |  |  |
 
 | PREGUNTA | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|
-| Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="10" height="10"/> |  |  |  |
-| Encontré el website innecesariamente complejo |  |  |  |  |  |
-| Pensé que era fácil utilizar este website |  |  |  |  |  |
-| Creo que necesitaría del apoyo de un experto para recorrer el website |  |  |  |  |  |
-| Encontré las funciones del website bastante bien integradas |  |  |  |  |  |
-| Pensé que había demasiada inconsistencia en el website |  |  |  |  |  |
+| Creo que me gustará visitar con frecuencia este website |  |  |  | <img src="../img/close.png" width="10" height="10"/> |  |
+| Encontré el website innecesariamente complejo |  | <img src="../img/close.png" width="10" height="10"/> |  |  |  |
+| Pensé que era fácil utilizar este website |  |  | <img src="../img/close.png" width="10" height="10"/> |  |  |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
+| Encontré las funciones del website bastante bien integradas |  | <img src="../img/close.png" width="10" height="10"/> |  |  |  |
+| Pensé que había demasiada inconsistencia en el website |  |  |  |  | <img src="../img/close.png" width="10" height="10"/> |
 | Imagino que la mayoría de las personas aprenderían muy rápidamente a
-utilizar el website |  |  |  |  |  |
-| Encontré el website muy grande al recorrerlo |  |  |  |  |  |
-| Me sentí muy confiado en el manejo del website |  |  |  |  |  |
-| Necesito aprender muchas cosas antes de manejarse en el |  |  |  |  |
+utilizar el website |  |  |  |  | <img src="../img/close.png" width="10" height="10"/> |
+| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
+| Me sentí muy confiado en el manejo del website |  |  |  | <img src="../img/close.png" width="10" height="10"/> |  |
+| Necesito aprender muchas cosas antes de manejarse en el | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
 
 > Puntuación: **70**
 
