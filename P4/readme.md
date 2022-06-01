@@ -1,7 +1,6 @@
 # DIU - Practica 4, entregables
 
-
-## Users definition
+## Definición de los usuarios
 
 En esta práctica se han elegido 4 usuarios los cuales tienen atributos y carácterísticas distintas elegidas al azar. 
 
@@ -48,48 +47,17 @@ Estaría bien que el site ofreciese facilidad para ver que servicios ofrecen, do
 
 Poder encontrar habitaciones familiares para poder ir con los niños sería de gran valor. Por otro lado debería disponer de un apartado de contacto que me permita llamar a la empresa, aparte de que me deje consultar distintas opiniones para saber como es el sitio de primera mano. 
 
-## Resultados de SUS 
+## Resultados del cuestionario SUS 
 
 A continuación se muestran los resultados obtenidos a partir del cuestionario SUS en base a la experiencia de los cuatro distintos usuarios.
 
 <img src="../img/resultados-sus.png"/>
 
-### Para CarlotaExperience
+## Informe de usabilidad
 
-- Laura Medina
+El prototipo a evaluar a través de este informe se llama Anca y ha sido desarrollado por el equipo de DIU2.Backyardigans.
 
-| PREGUNTA | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|
-| Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="50" height="25"/> |  |  |  |
-| Encontré el website innecesariamente complejo |  |  | <img src="../img/close.png" width="50" height="25"/> |  |  |
-| Pensé que era fácil utilizar este website |  |  | <img src="../img/close.png" width="50" height="25"/> |  |  |
-| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
-| Encontré las funciones del website bastante bien integradas |  |  |  |  | <img src="../img/close.png" width="50" height="25"/> |
-| Pensé que había demasiada inconsistencia en el website |  | <img src="../img/close.png" width="50" height="25"/> |  |  |  |
-| Imagino que la mayoría de las personas aprenderían muy rápidamente a
-utilizar el website |  |  |  | <img src="../img/close.png" width="50" height="25"/> |  |
-| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
-| Me sentí muy confiado en el manejo del website |  |  | <img src="../img/close.png" width="50" height="25"/> |  |  |
-| Necesito aprender muchas cosas antes de manejarse en el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
-
-- Inés López
-
-| PREGUNTA | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|
-| Creo que me gustará visitar con frecuencia este website |  |  | <img src="../img/close.png" width="50" height="25"/> |  |  |
-| Encontré el website innecesariamente complejo | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
-| Pensé que era fácil utilizar este website |  |  |  |  | <img src="../img/close.png" width="50" height="25"/> |
-| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
-| Encontré las funciones del website bastante bien integradas |  |  |  | <img src="../img/close.png" width="50" height="25"/> |  |
-| Pensé que había demasiada inconsistencia en el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
-| Imagino que la mayoría de las personas aprenderían muy rápidamente a
-utilizar el website |  |  |  |  | <img src="../img/close.png" width="50" height="25"/> |
-| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
-| Me sentí muy confiado en el manejo del website |  |  |  |  | <img src="../img/close.png" width="50" height="25"/> |
-| Necesito aprender muchas cosas antes de manejarse en el website | <img src="../img/close.png" width="50" height="25"/> |  |  |  |  |
-
-## Usability Report de Anca
-
-
+- Equipo redactor del informe: DIU2.LosMejoresDeDIU
+- Fecha: 01 / 06 / 2022
 
 ## Conclusiones
