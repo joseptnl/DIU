@@ -57,7 +57,9 @@ A continuación se muestran los resultados obtenidos a partir del cuestionario S
 
 El prototipo a evaluar a través de este informe se llama Anca y ha sido desarrollado por el equipo de DIU2.Backyardigans.
 
-- Equipo redactor del informe: DIU2.LosMejoresDeDIU
-- Fecha: 01 / 06 / 2022
+> Equipo redactor del informe: DIU2.LosMejoresDeDIU
+> Fecha de redacción: 01 / 06 / 2022
+
+
 
 ## Conclusiones
