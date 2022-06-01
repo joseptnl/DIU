@@ -68,9 +68,9 @@ El website se basa en promocionar una propuesta de negocio acerca de un hostel l
 
 ### Resumen ejecutivo
 
-En este documento se ha realizado el test de usabilidad acerca del website de Anca desarrollado por el equipo de Backyardigans, formado por Anna María Blyumina Eskova y Carlos Andres Horta Rios, con el objetivo de detectar cuales son sus puntos fuertos y en qué apartados pueden mejorar.
+Se ha realizado el test de usabilidad acerca del website de Anca desarrollado por Backyardigans, Anna María Blyumina Eskova y Carlos Andres Horta Rios, con el objetivo de detectar cuales son sus puntos fuertos y en qué apartados pueden mejorar.
 
-El contenido se estructura de manera que primero se describe la metodología a seguir, luego se procede a mostrar el resultado del análisis de la experiencia de los usuarios y por último se realiza el estudio de varios tópicos relevantes en cuanto al impacto en la usabilidad de la aplicación.
+Primero describimos la metodología a seguir, luego se procede a mostrar el resultado del análisis de la experiencia de los usuarios y por último se realiza el estudio de varios tópicos en la usabilidad de la aplicación.
 
 - Problemas detectados
 
@@ -138,6 +138,8 @@ utilizar el website |  |  |  |  | <img src="../img/close.png" width="10" height=
 ### Análisis de la usabilidad
 
 #### La accesibilidad
+
+
 
 #### El "branding" 
 
