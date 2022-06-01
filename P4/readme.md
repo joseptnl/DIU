@@ -42,21 +42,54 @@ Sería ideal que la aplicación me permitiese proponer actividades y colaborar e
 
 - Pedro Sánchez
 
-Estaría bien que el site ofreciera facilidad para ver que servicios ofrecen, donde están situados y información relevante. También me gustaría poder registrarme fácilmente y completar una reserva sin malgastar mucho tiempo.
+Estaría bien que el site ofreciese facilidad para ver que servicios ofrecen, donde están situados e información relevante. También me gustaría poder registrarme fácilmente y completar una reserva sin malgastar mucho tiempo.
 
 - Manolo García
 
 Poder encontrar habitaciones familiares para poder ir con los niños sería de gran valor. Por otro lado debería disponer de un apartado de contacto que me permita llamar a la empresa, aparte de que me deje consultar distintas opiniones para saber como es el sitio de primera mano. 
 
-## A/B Testing 
+## Resultados de SUS 
 
+A continuación se muestran los resultados obtenidos a partir del cuestionario SUS a partir de la experiencia de los cuatro distintos usuarios.
 
+<img src="../img/resultados-sus.png"/>
 
-## Tareas realizadas 
+### Para CarlotaExperience
 
+- Laura Medina
+
+| PREGUNTA | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Creo que me gustará visitar con frecuencia este website |  | <img src="../img/close.png" width="50" height="50"/> |  |  |  |
+| Encontré el website innecesariamente complejo |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
+| Pensé que era fácil utilizar este website |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+| Encontré las funciones del website bastante bien integradas |  |  |  |  | <img src="../img/close.png" width="50" height="50"/> |
+| Pensé que había demasiada inconsistencia en el website |  | <img src="../img/close.png" width="50" height="50"/> |  |  |  |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a
+utilizar el website |  |  |  | <img src="../img/close.png" width="50" height="50"/> |  |
+| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+| Me sentí muy confiado en el manejo del website |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
+| Necesito aprender muchas cosas antes de manejarse en el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+
+- Inés López
+
+| PREGUNTA | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Creo que me gustará visitar con frecuencia este website |  |  | <img src="../img/close.png" width="50" height="50"/> |  |  |
+| Encontré el website innecesariamente complejo | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+| Pensé que era fácil utilizar este website |  |  |  |  | <img src="../img/close.png" width="50" height="50"/> |
+| Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+| Encontré las funciones del website bastante bien integradas |  |  |  | <img src="../img/close.png" width="50" height="50"/> |  |
+| Pensé que había demasiada inconsistencia en el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a
+utilizar el website |  |  |  |  | <img src="../img/close.png" width="50" height="50"/> |
+| Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
+| Me sentí muy confiado en el manejo del website |  |  |  |  | <img src="../img/close.png" width="50" height="50"/> |
+| Necesito aprender muchas cosas antes de manejarse en el website | <img src="../img/close.png" width="50" height="50"/> |  |  |  |  |
 
 ## Usability Report de Caso B
 
-* Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
+
 
 ## Conclusiones
