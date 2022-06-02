@@ -139,11 +139,29 @@ utilizar el website |  |  |  |  | <img src="../img/close.png" width="10" height=
 
 #### La accesibilidad
 
+Primero evaluamos el nivel de facilidad que ofrece la aplicación al usuario para que este pueda acceder a la información.
 
+Para empezar la página web presenta un buen contraste de colores, es decir, la mayoría de los textos son de color negro y están situados en un fondo que mayoritariamente es blanco aunque también hay secciones en los que es naranja claro o rojo, en este último caso las letras son siempre de color blanco. En conclusión, la información del site se verá bien en todos los navegadores y pantallas ya que no hay combinaciones dispares ni confusas de colores.
+
+Por otro lado es importante analizar el tamaño de la fuente así como su espaciado entre caracteres, estas propiedades pueden hacer que el lector se frustre o se agobie. En el site se han elegido unos buenos valores para ello ya que permite que se distinga lo suficiente el contenido de los párrafos en todos los apartados.
 
 #### El "branding" 
 
+Es importante que el usuario identifique de manera sencilla la web con la marca. El branding debe responder a la pregunta que se hace un usuario cuando llega a la web de "¿Quién es esta gente?". Esto aumenta la credibilidad de la empresa y la confianza por parte de los nuevos clientes.
+
+Lo primero que se encuentra el usuario cuando entra es el logo arriba a la izquierda, este permite identificar de un vistazo la marca ya que es visualmente llamativo. Lo que se reconoce a primera vista de este es claramente un edificio, esto es un buen símbolo ya que el usuario puede identificarlo fácilmente con el hostel, y a su vez otro aspecto positivo es que hace referencia a la A de Anca ya que el edificio se ve en diagonal acabado en un triángulo en su parte superior. Lo único que chirría en el logo es ese anillo que contiene al dibujo central el cual a simple vista no tiene relación alguna con la propuesta de la marca.
+
+Es importante que un usuario cuando entra en la página puede distinguir enseguida de qué va y qué es lo que le ofrece la empresa. El home no es complicado y puede digerirse en pocos segundos, encontrando todos los apartados distribuidos de manera intuitiva y respetando los órdenes de importancia en la información. También es fácil encontrar la sección de contacto en el pie de página aunque tal vez a muchos usuarios les sería más sencillo poder acceder directamente desde el menú principal. Por último destacar que falta mostrar quien está detrás del proyecto ya que eso da confianza y seguridad.
+
+Todos los apartados respetan a la perfección la identidad visual de la marca, usando la paleta de colores definida, y a su vez mantienen una cohesión estilística, importante para que de un aspecto atractivo y profesional.
+
 #### La navegación
+
+Cuando el usuario ha accedido al site y sabe con quien está tratando y que se le ofrece es hora de que se le facilite al máximo el acceso a toda la información de manera intuitiva y sencilla para que pueda navegar cómodamente y consultar lo que quiera sin problemas.
+
+La aplicación cuenta con un menú perfectamente identificable desde el primer momento en el que el usuario entra. Este contiene el número perfecto de elementos para que una persona no se sienta abrumada y pueda gestionar la información de manera ágil y sencilla. Por otro lado presenta botones, estos llevan asociados enlaces, con la información orientativa concisa para permitir al usuario identificar a donde le llevará si lo pulsa.
+
+Como aspectos negativos hay que destacar que la distribución del menú es estraña ya que parecen botones sueltos con poca consistencia entre sí, aparte de que apenas se nota la opción de acceder al registro o inicio de sesión ya que no está alineada con las demás. El logo de la marca tampoco lleva asocioda ningún enlace, como suele ser en otras páginas, que lleve al usuario a la página de inicio.
 
 #### El contenido
 
