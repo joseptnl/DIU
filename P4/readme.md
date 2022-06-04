@@ -163,12 +163,12 @@ Cuando el usuario ha accedido al site y sabe con quien está tratando y que se l
 
 La aplicación cuenta con un menú perfectamente identificable desde el primer momento en el que el usuario entra. Este contiene el número perfecto de elementos para que una persona no se sienta abrumada y pueda gestionar la información de manera ágil y sencilla. Por otro lado presenta botones, estos llevan asociados enlaces, con la información orientativa concisa para permitir al usuario identificar a donde le llevará si lo pulsa.
 
-Como aspectos negativos hay que destacar que la distribución del menú es estraña ya que parecen botones sueltos con poca consistencia entre sí, aparte de que apenas se nota la opción de acceder al registro o inicio de sesión ya que no está alineada con las demás. El logo de la marca tampoco lleva asocioda ningún enlace, como suele ser en otras páginas, que lleve al usuario a la página de inicio.
+Como aspectos negativos hay que destacar que la distribución del menú es estraña ya que parecen botones sueltos con poca consistencia entre sí, aparte de que apenas se nota la opción de acceder al registro o inicio de sesión ya que no está alineada con las demás. El logo de la marca tampoco lleva asociado ningún enlace, como suele ser en otras páginas, que lleve al usuario a la página de inicio.
 
 #### El contenido
-El contenido de la aplicación es adecuado, se han implementado la mayoría de las funcionalidades de la aplicación y las que no se especifican claramente desde donde se accederían. Consideramos que se han detallado bien todos los apartados y subsecciones.
+El contenido de la aplicación es adecuado, se han implementado la mayoría de las funcionalidades de la aplicación y las que no se especifican claramente desde donde se accedería. Consideramos que se han detallado bien todos los apartados y subsecciones.
 
-El apartado de reserva de habitaciones es muy completo incluyendo todas las páginas por las que pasaría un usuario desde que inicia la busqueda hasta el paso justo inminente para realizar el pago, todo cuidado con un alto nivel de detalle.
+El apartado de reserva de habitaciones es muy completo incluyendo todas las páginas por las que pasaría un usuario desde que inicia la búsqueda hasta el paso justo inminente para realizar el pago, todo cuidado con un alto nivel de detalle.
 
 Además destacar también la sección de mi perfil, que incluye un ejemplo de como quedaría una vez registrado el usuario, y se ha implementado también la opción del cambio de contraseña, además de situar otras funcionalidades muy útiles aún sin haberlas implementado.
 
