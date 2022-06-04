@@ -173,8 +173,8 @@ El apartado de reserva de habitaciones es muy completo incluyendo todas las pág
 Además destacar también la sección de mi perfil, que incluye un ejemplo de como quedaría una vez registrado el usuario, y se ha implementado también la opción del cambio de contraseña, además de situar otras funcionalidades muy útiles aún sin haberlas implementado.
 
 ## Conclusiones
-Trás realizar esta práctica y al haber rellenado los cuestionarios SUS en base a nuestros usuarios ficticios, vemos que cumple con los estandares medios requeridos. Es un trabajo muy completo el que se nota que se le ha dedicado mucho tiempo y esfuerzo.
+Trás realizar esta práctica y al haber rellenado los cuestionarios SUS en base a nuestros usuarios ficticios, vemos que cumple con los estándares medios requeridos. Es un trabajo muy completo el que se nota que se le ha dedicado mucho tiempo y esfuerzo.
 
-Sin embargo como cualquier aplicación tiene sus fallo o aspectos a mejorar, como hemos comentado el home podría ser un poco más conciso y la información secundaria encontrarse en otro apartado, además el menú podría estar mejor integrado no solo con un botón por apartado si no siguiendo un estilo más acorde al resto de la página.
+Sin embargo como cualquier aplicación tiene sus fallos o aspectos a mejorar, como hemos comentado el home podría ser un poco más conciso y la información secundaria encontrarse en otro apartado, además el menú podría estar mejor integrado no solo con un botón por apartado si no siguiendo un estilo más acorde al resto de la página.
 
-A pesar de esto en conclusión consideramos que la página es completa y adecuada, implementa bién el sistema de reserva que cualquier usuario pediría para un hostel, sin añadir ninguna funcionalidad nueva.
+A pesar de esto en conclusión consideramos que la página es completa y adecuada, implementa bien el sistema de reserva que cualquier usuario pediría para un hostel, sin añadir ninguna funcionalidad nueva.
