@@ -3,7 +3,7 @@
 
 ## Users definition
 
-En esta práctica se han elegido 4 usuarios los cuales tienen atributos y carácterísticas distintas elegidas al azar. 
+En esta práctica se han elegido 4 usuarios los cuales tienen atributos y características distintas elegidas al azar. 
 
 ### Atributos
 
