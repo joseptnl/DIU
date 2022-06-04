@@ -72,7 +72,6 @@ Se ha realizado el test de usabilidad acerca del website de Anca desarrollado po
 
 Primero describimos la metodología a seguir, luego se procede a mostrar el resultado del análisis de la experiencia de los usuarios y por último se realiza el estudio de varios tópicos en la usabilidad de la aplicación.
 
-- Problemas detectados
 A simple vista podemos detectar algunos problemas concretos:
  * Como hemos visto un punto importante en cuanto a la identidad es que el home se debe poder procesar en muy poco tiempo y ser claro y conciso, si nos fijamos en este proyecto el home tiene demasiada información a cerca de multitud de apartados que podrían estar mejor recogidas en otras subpáginas.
  * El logo de la página no nos lleva al menú principal
