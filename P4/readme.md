@@ -68,12 +68,17 @@ El website se basa en promocionar una propuesta de negocio acerca de un hostel l
 
 ### Resumen ejecutivo
 
-Se ha realizado el test de usabilidad acerca del website de Anca desarrollado por Backyardigans, Anna María Blyumina Eskova y Carlos Andres Horta Rios, con el objetivo de detectar cuales son sus puntos fuertos y en qué apartados pueden mejorar.
+Se ha realizado el test de usabilidad acerca del website de Anca desarrollado por Backyardigans, Anna María Blyumina Eskova y Carlos Andres Horta Rios, con el objetivo de detectar cuales son sus puntos fuertes y en qué apartados pueden mejorar.
 
 Primero describimos la metodología a seguir, luego se procede a mostrar el resultado del análisis de la experiencia de los usuarios y por último se realiza el estudio de varios tópicos en la usabilidad de la aplicación.
 
 - Problemas detectados
-
+A simple vista podemos detectar algunos problemas concretos:
+ * Como hemos visto un punto importante en cuanto a la identidad es que el home se debe poder procesar en muy poco tiempo y ser claro y conciso, si nos fijamos en este proyecto el home tiene demasiada información a cerca de multitud de apartados que podrían estar mejor recogidas en otras subpáginas.
+ * El logo de la página no nos lleva al menú principal
+ * Tamaño de fuente sobre todo en el home demasiado pequeño para que se entienda con claridad, cosa que se corrige en otras subpáginas
+ * No está claro un modelo de tamaño para toda la aplicación, el home es un rectángulo vertical alargado y en cambio la sección de habitaciones pasa a una disposición horizontal más estrecha.
+ * No añade una funcionalidad nueva al hostel
 
 
 ### La metodología que se ha seguido
@@ -109,8 +114,7 @@ A continuación se muestra una tabla con la información de como han quedado los
 | Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
 | Encontré las funciones del website bastante bien integradas |  |  | <img src="../img/close.png" width="10" height="10"/> |  |  |
 | Pensé que había demasiada inconsistencia en el website |  |  |  | <img src="../img/close.png" width="10" height="10"/> |  |
-| Imagino que la mayoría de las personas aprenderían muy rápidamente a
-utilizar el website |  |  |  |  | <img src="../img/close.png" width="10" height="10"/> |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |  |  |  |  | <img src="../img/close.png" width="10" height="10"/> |
 | Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
 | Me sentí muy confiado en el manejo del website |  |  | <img src="../img/close.png" width="10" height="10"/> |  |  |
 | Necesito aprender muchas cosas antes de manejarse en el | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
@@ -127,8 +131,7 @@ utilizar el website |  |  |  |  | <img src="../img/close.png" width="10" height=
 | Creo que necesitaría del apoyo de un experto para recorrer el website | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
 | Encontré las funciones del website bastante bien integradas |  | <img src="../img/close.png" width="10" height="10"/> |  |  |  |
 | Pensé que había demasiada inconsistencia en el website |  |  |  |  | <img src="../img/close.png" width="10" height="10"/> |
-| Imagino que la mayoría de las personas aprenderían muy rápidamente a
-utilizar el website |  |  |  |  | <img src="../img/close.png" width="10" height="10"/> |
+| Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |  |  |  |  | <img src="../img/close.png" width="10" height="10"/> |
 | Encontré el website muy grande al recorrerlo | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
 | Me sentí muy confiado en el manejo del website |  |  |  | <img src="../img/close.png" width="10" height="10"/> |  |
 | Necesito aprender muchas cosas antes de manejarse en el | <img src="../img/close.png" width="10" height="10"/> |  |  |  |  |
@@ -143,7 +146,7 @@ Primero evaluamos el nivel de facilidad que ofrece la aplicación al usuario par
 
 Para empezar la página web presenta un buen contraste de colores, es decir, la mayoría de los textos son de color negro y están situados en un fondo que mayoritariamente es blanco aunque también hay secciones en los que es naranja claro o rojo, en este último caso las letras son siempre de color blanco. En conclusión, la información del site se verá bien en todos los navegadores y pantallas ya que no hay combinaciones dispares ni confusas de colores.
 
-Por otro lado es importante analizar el tamaño de la fuente así como su espaciado entre caracteres, estas propiedades pueden hacer que el lector se frustre o se agobie. En el site se han elegido unos buenos valores para ello ya que permite que se distinga lo suficiente el contenido de los párrafos en todos los apartados.
+Por otro lado es importante analizar el tamaño de la fuente así como su espaciado entre caracteres, estas propiedades pueden hacer que el lector se frustre o se agobie. En el site se han elegido unos buenos valores para ello ya que permite que se distinga lo suficiente el contenido de los párrafos en todos los apartados, sin embargo en algunas páginas como el home, vemos que tiene un tamaño de fuente algo inferior al recomendable y se ve la información demasiado apelmazada.
 
 #### El "branding" 
 
@@ -151,7 +154,7 @@ Es importante que el usuario identifique de manera sencilla la web con la marca.
 
 Lo primero que se encuentra el usuario cuando entra es el logo arriba a la izquierda, este permite identificar de un vistazo la marca ya que es visualmente llamativo. Lo que se reconoce a primera vista de este es claramente un edificio, esto es un buen símbolo ya que el usuario puede identificarlo fácilmente con el hostel, y a su vez otro aspecto positivo es que hace referencia a la A de Anca ya que el edificio se ve en diagonal acabado en un triángulo en su parte superior. Lo único que chirría en el logo es ese anillo que contiene al dibujo central el cual a simple vista no tiene relación alguna con la propuesta de la marca.
 
-Es importante que un usuario cuando entra en la página puede distinguir enseguida de qué va y qué es lo que le ofrece la empresa. El home no es complicado y puede digerirse en pocos segundos, encontrando todos los apartados distribuidos de manera intuitiva y respetando los órdenes de importancia en la información. También es fácil encontrar la sección de contacto en el pie de página aunque tal vez a muchos usuarios les sería más sencillo poder acceder directamente desde el menú principal. Por último destacar que falta mostrar quien está detrás del proyecto ya que eso da confianza y seguridad.
+Es importante que un usuario cuando entra en la página puede distinguir enseguida de qué va y qué es lo que le ofrece la empresa. El home es algo complicado y no puede digerirse en pocos segundos ya que contiene demasiada información, no obstante se encuentran todos los apartados distribuidos de manera intuitiva y respetando los órdenes de importancia en la información. También es fácil encontrar la sección de contacto en el pie de página aunque tal vez a muchos usuarios les sería más sencillo poder acceder directamente desde el menú principal. Por último destacar que falta mostrar quien está detrás del proyecto ya que eso da confianza y seguridad.
 
 Todos los apartados respetan a la perfección la identidad visual de la marca, usando la paleta de colores definida, y a su vez mantienen una cohesión estilística, importante para que de un aspecto atractivo y profesional.
 
@@ -164,5 +167,15 @@ La aplicación cuenta con un menú perfectamente identificable desde el primer m
 Como aspectos negativos hay que destacar que la distribución del menú es estraña ya que parecen botones sueltos con poca consistencia entre sí, aparte de que apenas se nota la opción de acceder al registro o inicio de sesión ya que no está alineada con las demás. El logo de la marca tampoco lleva asocioda ningún enlace, como suele ser en otras páginas, que lleve al usuario a la página de inicio.
 
 #### El contenido
+El contenido de la aplicación es adecuado, se han implementado la mayoría de las funcionalidades de la aplicación y las que no se especifican claramente desde donde se accederían. Consideramos que se han detallado bien todos los apartados y subsecciones.
+
+El apartado de reserva de habitaciones es muy completo incluyendo todas las páginas por las que pasaría un usuario desde que inicia la busqueda hasta el paso justo inminente para realizar el pago, todo cuidado con un alto nivel de detalle.
+
+Además destacar también la sección de mi perfil, que incluye un ejemplo de como quedaría una vez registrado el usuario, y se ha implementado también la opción del cambio de contraseña, además de situar otras funcionalidades muy útiles aún sin haberlas implementado.
 
 ## Conclusiones
+Trás realizar esta práctica y al haber rellenado los cuestionarios SUS en base a nuestros usuarios ficticios, vemos que cumple con los estandares medios requeridos. Es un trabajo muy completo el que se nota que se le ha dedicado mucho tiempo y esfuerzo.
+
+Sin embargo como cualquier aplicación tiene sus fallo o aspectos a mejorar, como hemos comentado el home podría ser un poco más conciso y la información secundaria encontrarse en otro apartado, además el menú podría estar mejor integrado no solo con un botón por apartado si no siguiendo un estilo más acorde al resto de la página.
+
+A pesar de esto en conclusión consideramos que la página es completa y adecuada, implementa bién el sistema de reserva que cualquier usuario pediría para un hostel, sin añadir ninguna funcionalidad nueva.
